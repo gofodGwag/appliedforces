@@ -3809,7 +3809,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/lfrs_atlas_1.png?1639058153389", id:"lfrs_atlas_1"}
+		{src:"images/lfrs_atlas_1.png?1639058397163", id:"lfrs_atlas_1"}
 	],
 	preloads: []
 };
